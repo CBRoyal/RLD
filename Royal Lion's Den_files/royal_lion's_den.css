@@ -1,0 +1,100 @@
+:root{
+    --royal-lions-den-headbar-color: #000080;
+    --royal-lions-den-nav-text-color:#fffafa;
+    --royal-lions-den-main-text-color: #d2691e;
+    --royal-lions-den-main-text-shadow: #556b2f;
+    --royal-lions-den-menu-items-bg-color: #fff8dc;
+    --royal-lions-den-menu-items-bg-border-color: #8b4513;
+    --royal-lions-den-menu-items-shadow: #000000;
+}
+#royal_lions_den_main_webpage{
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/9299d589101433.5dea3be568efe.jpeg");
+}
+#royal_lions_den_banner_logo_banner{
+    position: relative;
+}
+#royal_lions_den_banner_logo_text1{
+    position: absolute;
+    left: 90px;
+    top: 70px;
+    color: var(--royal-lions-den-nav-text-color);
+    font-family: "Pacifico", fantasy;
+    font-size: 25px;
+}
+#royal_lions_den_banner_logo_text2{
+    position: absolute;
+    left: 140px;
+    top: 105px;
+    color: var(--royal-lions-den-nav-text-color);
+    font-family: "Pacifico", fantasy;
+    font-size: 25px;
+}
+#royal_lions_den_banner_logo_lion{
+    position: absolute;
+    left: 125px;
+    top: 145px;
+}
+#royal_lions_den_description, #royal_lions_den_menu_description{
+    color: var(--royal-lions-den-main-text-color);
+    text-shadow: 2px 2px var(--royal-lions-den-main-text-shadow);
+    font-family: "BBH Sans Bogle", fantasy;
+    font-size: 30px;
+}
+#royal_lions_den_menu_description h1{
+    font-size: 70px;
+}
+.royal_lions_den_menu_items{
+    padding: 5px;
+    background-color: var(--royal-lions-den-menu-items-bg-color);
+    border: 10px double var(--royal-lions-den-menu-items-bg-border-color);
+    color: var(--royal-lions-den-headbar-color);
+    text-shadow: 1px 1px var(--royal-lions-den-menu-items-shadow);
+    font-family: "Pacifico", fantasy;
+    font-size: 20px;
+    position: relative;
+}
+.responsive{
+    width: 100%;
+    max-width: 400px;
+    height: 50%;
+}
+#royal_lions_den_footbar{
+    background-color: var(--royal-lions-den-headbar-color);
+    color: var(--royal-lions-den-nav-text-color);
+    font-family: "Pacifico", fantasy;
+    padding: 5px;
+}
+#royal_lions_den_location{
+    display: none;
+    color: var(--royal-lions-den-main-text-color);
+    text-shadow: 2px 2px var(--royal-lions-den-main-text-shadow);
+    font-family: "BBH Sans Bogle", fantasy;
+    font-size: 30px;
+}
+#copyright_link, #storage_link{
+    color: var(--royal-lions-den-nav-text-color);
+}
+@media screen and (max-width: 500px){
+    .royal_lions_den_menu_items{
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-grow: 1;
+        flex-basis: 100%;
+    }
+    .royal_lions_den_menu_items> div> p{
+        display: flex;
+        justify-content: space-between;
+    }
+    #royal_lions_den_address, #royal_lions_den_address_description{
+        display: none;
+    }
+}
+@media screen and (max-width: 400px){
+    #royal_lions_den_menu_description,#royal_lions_den_menu, #royal_lions_den_footbar{
+        display: none;
+    }
+    #royal_lions_den_location{
+        display: inline;
+    }
+}
