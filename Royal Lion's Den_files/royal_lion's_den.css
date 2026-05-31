@@ -10,9 +10,11 @@
 #royal_lions_den_main_webpage{
     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/9299d589101433.5dea3be568efe.jpeg");
 }
-#royal_lions_den_banner_logo_banner{
-    position: relative;
+#royal_lions_den_logo{
     margin-left: 500px;
+}
+#royal_lions_den_banner_logo{
+    position: relative;
 }
 #royal_lions_den_banner_logo_text1{
     position: absolute;
