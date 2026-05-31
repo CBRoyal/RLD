@@ -86,6 +86,9 @@
         flex-grow: 1;
         flex-basis: 100%;
     }
+    #royal_lions_den_logo_banner{
+        margin-left: 200px;
+    }
     .royal_lions_den_menu_items> div> p{
         display: flex;
         justify-content: space-between;
