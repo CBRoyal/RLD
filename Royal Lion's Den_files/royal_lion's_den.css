@@ -1,5 +1,6 @@
 :root{
     --royal-lions-den-headbar-color: #000080;
+    --royal-lions-den-logo-text-color: #ffd700;
     --royal-lions-den-nav-text-color:#fffafa;
     --royal-lions-den-main-text-color: #d2691e;
     --royal-lions-den-main-text-shadow: #556b2f;
@@ -18,7 +19,7 @@
     position: absolute;
     left: 90px;
     top: 70px;
-    color: var(--royal-lions-den-nav-text-color);
+    color: var(--royal-lions-den-logo-text-color);
     font-family: "Pacifico", fantasy;
     font-size: 25px;
 }
@@ -26,7 +27,7 @@
     position: absolute;
     left: 140px;
     top: 105px;
-    color: var(--royal-lions-den-nav-text-color);
+    color: var(--royal-lions-den-logo-text-color);
     font-family: "Pacifico", fantasy;
     font-size: 25px;
 }
