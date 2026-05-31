@@ -14,7 +14,7 @@
     position: relative;
     margin-left: 450px;
 }
-#royal_lions_den_banner_logo_text1{
+#royal_lions_den_logo_banner_text1{
     position: absolute;
     left: 90px;
     top: 70px;
@@ -22,7 +22,7 @@
     font-family: "Pacifico", fantasy;
     font-size: 25px;
 }
-#royal_lions_den_banner_logo_text2{
+#royal_lions_den_logo_banner_text2{
     position: absolute;
     left: 140px;
     top: 105px;
@@ -30,7 +30,7 @@
     font-family: "Pacifico", fantasy;
     font-size: 25px;
 }
-#royal_lions_den_banner_logo_lion{
+#royal_lions_den_logo_banner_lion{
     position: absolute;
     left: 125px;
     top: 145px;
