@@ -33,8 +33,8 @@
 }
 #royal_lions_den_logo_banner_lion{
     position: absolute;
-    left: 125px;
-    top: 145px;
+    left: 120px;
+    top: 140px;
 }
 #royal_lions_den_description, #royal_lions_den_menu_description{
     color: var(--royal-lions-den-main-text-color);
