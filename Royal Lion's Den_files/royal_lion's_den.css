@@ -24,6 +24,9 @@
     font-size: 30px;
     color: var(--royal-lions-den-logo-text-color);
 }
+.royal_lions_den_website_navigation_bar_links:hover{
+    color: var(--royal-lions-den-nav-text-color);
+}
 #royal_lions_den_logo_banner{
     position: relative;
     margin-left: 450px;
