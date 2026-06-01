@@ -84,7 +84,6 @@
     padding: 5px;
 }
 #royal_lions_den_location{
-    display: none;
     color: var(--royal-lions-den-main-text-color);
     text-shadow: 2px 2px var(--royal-lions-den-main-text-shadow);
     font-family: "BBH Sans Bogle", fantasy;
@@ -113,9 +112,6 @@
     }
 }
 @media screen and (max-width: 500px){
-    #royal_lions_den_menu_description,#royal_lions_den_menu, #royal_lions_den_footbar{
-        display: none;
-    }
     #royal_lions_den_location{
         display: inline;
     }
