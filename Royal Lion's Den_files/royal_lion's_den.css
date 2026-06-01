@@ -71,9 +71,6 @@
     font-size: 20px;
     position: relative;
 }
-.royal_lions_den_menu_items_images{
-    float: left
-}
 #royal_lions_den_footbar{
     background-color: var(--royal-lions-den-headbar-color);
     color: var(--royal-lions-den-nav-text-color);
