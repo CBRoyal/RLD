@@ -89,6 +89,9 @@
     font-family: "BBH Sans Bogle", fantasy;
     font-size: 30px;
 }
+#royal_lions_den_map_location{
+    margin-left: 500px;
+}
 #copyright_link, #storage_link{
     color: var(--royal-lions-den-nav-text-color);
 }
