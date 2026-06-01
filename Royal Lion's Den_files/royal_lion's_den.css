@@ -14,7 +14,7 @@
 #royal_lions_den_website_navigation_bar{
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 50px;
     background-color: var(--royal-lions-den-headbar-color);
 }
 .royal_lions_den_website_navigation_bar_links{
