@@ -26,6 +26,7 @@
 }
 .royal_lions_den_website_navigation_bar_links:hover{
     color: var(--royal-lions-den-nav-text-color);
+    cursor: pointer;
 }
 #royal_lions_den_logo_banner{
     position: relative;
