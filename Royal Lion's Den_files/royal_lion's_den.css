@@ -99,6 +99,9 @@
 #copyright_link, #storage_link{
     color: var(--royal-lions-den-nav-text-color);
 }
+#copyright_link:hover, #storage_link:hover{
+    color: var(--royal-lions-den-logo-text-color);
+}
 @media screen and (max-width: 800px){
     .royal_lions_den_menu_items{
         margin-top: 20px;
