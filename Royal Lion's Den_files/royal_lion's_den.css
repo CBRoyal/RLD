@@ -115,6 +115,9 @@
     #royal_lions_den_website_tablet_and_laptop_navigation_menu{
         gap: 20px;
     }
+    #royal_lions_den_description_box{
+        width: 90%;
+    }
     .royal_lions_den_menu_items{
         margin-top: 20px;
         display: flex;
