@@ -75,11 +75,6 @@
 .royal_lions_den_menu_items_images{
     float: left
 }
-.responsive{
-    width: 100%;
-    max-width: 400px;
-    height: 50%;
-}
 #royal_lions_den_footbar{
     background-color: var(--royal-lions-den-headbar-color);
     color: var(--royal-lions-den-nav-text-color);
