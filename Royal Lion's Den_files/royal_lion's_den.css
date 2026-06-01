@@ -15,7 +15,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 60px;
-    padding-left: 5px;
+    padding-left: 10px;
     padding-top: 17px;
     margin-bottom: 15px;
     background-color: var(--royal-lions-den-headbar-color);
