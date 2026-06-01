@@ -72,6 +72,9 @@
     font-size: 20px;
     position: relative;
 }
+.royal_lions_den_menu_items_images{
+    float: left
+}
 .responsive{
     width: 100%;
     max-width: 400px;
