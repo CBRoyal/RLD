@@ -74,8 +74,11 @@
     gap: 10px;
     position: relative;
 }
-.royal_lions_den_menu_items_links{
+.royal_lions_den_menu_items_links, .royal_lions_den_menu_items_links:visited{
     color: var(--royal-lions-den-headbar-color);
+}
+.royal_lions_den_menu_items_links:hover{
+    color: var(--royal-lions-den-logo-text-color);
 }
 #royal_lions_den_footbar{
     background-color: var(--royal-lions-den-headbar-color);
