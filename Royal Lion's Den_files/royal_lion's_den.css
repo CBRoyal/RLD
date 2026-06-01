@@ -12,13 +12,18 @@
     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/9299d589101433.5dea3be568efe.jpeg");
 }
 #royal_lions_den_website_navigation_bar{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 60px;
     padding-left: 10px;
     padding-top: 17px;
     margin-bottom: 15px;
     background-color: var(--royal-lions-den-headbar-color);
+}
+#royal_lions_den_website_phone_dropdown_navigation_menu{
+    display: none;
+}
+#royal_lions_den_website_tablet_and_laptop_navigation_menu{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
 }
 #royal_lions_den_website_navigation_menu_dropdown_button{
     display: none;
