@@ -134,7 +134,7 @@
         box-shadow: none;
         margin-bottom: 10px;
     }
-    #royal_lions_den_website_phone_and_tablet_navigation_menu_dropdown_button:active{
+    #royal_lions_den_website_phone_and_tablet_navigation_menu_dropdown_button:hover{
         color: var(--royal-lions-den-logo-text-color);
     }
     #royal_lions_den_menu{
