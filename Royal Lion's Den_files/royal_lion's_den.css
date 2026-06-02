@@ -141,13 +141,13 @@
         color: var(--royal-lions-den-logo-text-color);
     }
     #royal_lions_den_description_box, #royal_lions_den_menu{
-        width: 85%;
-    }
-    #royal_lions_den_menu_description{
         width: 90%;
     }
+    #royal_lions_den_menu_description{
+        width: 95%;
+    }
      #royal_lions_den_menu{
-        margin-left: 2.5px;
+        margin-left: 10px;
     }
     .royal_lions_den_menu_items{
         display: block;
@@ -162,7 +162,7 @@
         display: none;
     }
     #royal_lions_den_location{
-        width: 85%;
+        width: 90%;
     }
     #royal_lions_den_map_location{
         margin-left: 100px;
