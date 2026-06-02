@@ -128,6 +128,11 @@
         display: block;
         text-decoration: none;
     }
+    #royal_lions_den_website_phone_and_tablet_navigation_menu_dropdown_button{
+        color: var(--royal-lions-den-nav-text-color);
+        background-color: var(--royal-lions-den-headbar-color);
+        font-size: 30px;
+    }
     #royal_lions_den_description_box{
         width: 90%;
     }
