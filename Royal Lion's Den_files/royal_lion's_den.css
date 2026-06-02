@@ -178,8 +178,11 @@
         left: 72px;
     }
     #royal_lions_den_description, #royal_lions_den_menu_description, #royal_lions_den_location{
-        margin-left: 125px;
+        margin-left: 150px;
         font-size: 40px;
+    }
+    .royal_lions_den_operation_hours{
+        margin-left: 25px;
     }
     .royal_lions_den_menu_items{
         font-size: 30px;
