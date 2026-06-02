@@ -170,13 +170,13 @@
         width: 600px;
     }
     #royal_lions_den_logo_banner{
-        margin-left: 150px;
+        margin-left: 125px;
     }
     #royal_lions_den_logo_banner_text1{
-        left: 75px;
+        left: 70px;
     }
     #royal_lions_den_description, #royal_lions_den_menu_description, #royal_lions_den_location{
-        margin-left: 50px;
+        margin-left: 100px;
         font-size: 40px;
     }
     .royal_lions_den_menu_items{
