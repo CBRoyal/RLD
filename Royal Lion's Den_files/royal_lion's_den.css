@@ -17,10 +17,10 @@
     margin-bottom: 15px;
     background-color: var(--royal-lions-den-headbar-color);
 }
-#royal_lions_den_website_phone_container_navigation_menu{
+#royal_lions_den_website_phone_and_tablet_container_navigation_menu{
     display: none;
 }
-#royal_lions_den_website_tablet_and_laptop_navigation_menu{
+#royal_lions_den_website_computer_navigation_menu{
     display: flex;
     flex-wrap: wrap;
     gap: 60px;
@@ -81,6 +81,7 @@
 }
 .royal_lions_den_menu_items_links, .royal_lions_den_menu_items_links:visited{
     color: var(--royal-lions-den-headbar-color);
+    text-decoration: none;
 }
 .royal_lions_den_menu_items_links:hover{
     color: var(--royal-lions-den-logo-text-color);
@@ -110,10 +111,22 @@
 @media screen and (max-width: 800px){
     #royal_lions_den_website_navigation_bar{
         width: 85%;
-        height: 40px;
     }
-    #royal_lions_den_website_tablet_and_laptop_navigation_menu{
-        gap: 20px;
+    #royal_lions_den_website_computer_navigation_menu{
+        display: none;
+    }
+    #royal_lions_den_website_phone_and_tablet_container_navigation_menu{
+        display: inline;
+    }
+    #royal_lions_den_website_phone_and_tablet_dropdown_navigation_menu{
+        display: none;
+        position: absolute;
+        background-color: var(--royal-lions-den-headbar-color);
+        min-width: 100px;
+    }
+    #royal_lions_den_website_phone_and_tablet_dropdown_navigation_menu .royal_lions_den_website_navigation_bar_links{
+        display: block;
+        text-decoration: none;
     }
     #royal_lions_den_description_box{
         width: 90%;
