@@ -110,9 +110,6 @@
     color: var(--royal-lions-den-logo-text-color);
 }
 @media screen and (max-width: 800px){
-    #royal_lions_den_website_navigation_bar{
-        width: 95%;
-    }
     #royal_lions_den_website_computer_navigation_menu{
         display: none;
     }
