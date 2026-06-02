@@ -155,6 +155,9 @@
     #royal_lions_den_address, #royal_lions_den_address_description{
         display: none;
     }
+    #royal_lions_den_location{
+        width: 85%;
+    }
 }
 @media screen and (max-width: 500px){
     #royal_lions_den_location{
