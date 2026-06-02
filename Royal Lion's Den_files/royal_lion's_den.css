@@ -201,6 +201,7 @@
     }
     #royal_lions_den_footbar{
         width: 600px;
+        margin-left: 7.5px;
         font-size: 25px;
     }
 }
