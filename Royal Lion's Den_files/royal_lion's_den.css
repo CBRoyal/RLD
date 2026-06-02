@@ -136,6 +136,9 @@
     #royal_lions_den_description_box{
         width: 85%;
     }
+    #royal_lions_den_menu_description{
+        width: 95%;
+    }
     .royal_lions_den_menu_items{
         margin-top: 20px;
         display: flex;
