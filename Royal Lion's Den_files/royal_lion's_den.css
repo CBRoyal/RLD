@@ -150,6 +150,7 @@
         margin-left: 2.5px;
     }
     .royal_lions_den_menu_items{
+        display: inline-block;
         gap: 0px;
     }
     #royal_lions_den_logo_banner{
