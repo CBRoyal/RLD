@@ -137,10 +137,8 @@
     #royal_lions_den_website_phone_and_tablet_navigation_menu_dropdown_button:hover{
         color: var(--royal-lions-den-logo-text-color);
     }
-    #royal_lions_den_description_box, #royal_lions_den_menu{
-        width: 90%;
-    }
-    #royal_lions_den_menu_description{
+    #royal_lions_den_description_box, #royal_lions_den_menu_description, #royal_lions_den_menu,
+    #royal_lions_den_location{
         width: 95%;
     }
      #royal_lions_den_menu{
@@ -157,9 +155,6 @@
     }
     #royal_lions_den_address, #royal_lions_den_address_description{
         display: none;
-    }
-    #royal_lions_den_location{
-        width: 90%;
     }
     #royal_lions_den_map_location{
         margin-left: 100px;
