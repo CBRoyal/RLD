@@ -122,6 +122,7 @@
     #royal_lions_den_website_phone_and_tablet_dropdown_navigation_menu{
         display: none;
         position: absolute;
+        padding: 10px;
         background-color: var(--royal-lions-den-headbar-color);
         min-width: 100px;
     }
