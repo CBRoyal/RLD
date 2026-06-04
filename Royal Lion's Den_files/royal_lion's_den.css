@@ -15,6 +15,7 @@
 #royal_lions_den_website_navigation_bar{
     padding-left: 10px;
     padding-top: 17px;
+    margin-right: 10px;
     margin-bottom: 15px;
     background-color: var(--royal-lions-den-headbar-color);
 }
