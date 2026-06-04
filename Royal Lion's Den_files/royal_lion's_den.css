@@ -14,7 +14,6 @@
 #royal_lions_den_website_navigation_bar{
     padding-left: 10px;
     padding-top: 17px;
-    margin-right: 10px;
     margin-bottom: 15px;
     background-color: var(--royal-lions-den-headbar-color);
 }
@@ -70,9 +69,6 @@
 }
 #royal_lions_den_menu_description h1{
     font-size: 70px;
-}
-#royal_lions_den_menu{
-    margin-right: 10px;
 }
 .royal_lions_den_menu_items{
     padding: 5px;
@@ -147,7 +143,6 @@
     #royal_lions_den_menu{
         width: 95%;
         margin-left: 22.5px;
-        margin-right: 0px;
     }
     .royal_lions_den_menu_items{
         display: block;
