@@ -72,6 +72,9 @@
 #royal_lions_den_menu_description h1{
     font-size: 70px;
 }
+#royal_lions_den_menu{
+    margin-right: 10px;
+}
 .royal_lions_den_menu_items{
     padding: 5px;
     background-color: var(--royal-lions-den-menu-items-bg-color);
@@ -145,6 +148,7 @@
     #royal_lions_den_menu{
         width: 95%;
         margin-left: 22.5px;
+        margin-right: 0px;
     }
     .royal_lions_den_menu_items{
         display: block;
