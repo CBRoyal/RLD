@@ -167,7 +167,7 @@
 }
 @media screen and (max-width: 500px){
     #royal_lions_den_website_navigation_bar{
-        width: 700px;
+        width: 730px;
     }
     #royal_lions_den_logo_banner{
         margin-left: 190px;
@@ -178,14 +178,14 @@
         left: 74px;
     }
     #royal_lions_den_description_box, #royal_lions_den_menu_description, #royal_lions_den_location{
-        margin-left: 180px;
+        margin-left: 220px;
         font-size: 40px;
     }
     .royal_lions_den_operation_hours{
         margin-left: 25px;
     }
     #royal_lions_den_menu{
-        margin-left: 125px;
+        margin-left: 145px;
         width: 100%;
     }
     .royal_lions_den_menu_items{
@@ -198,10 +198,10 @@
     }
     #royal_lions_den_map_location{
         margin-left: 0px;
-        margin-right: 135px;
+        margin-right: 155px;
     }
     #royal_lions_den_footbar{
-        width: 670px;
+        width: 740px;
         margin-left: 7.5px;
         font-size: 25px;
     }
