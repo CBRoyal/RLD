@@ -114,7 +114,7 @@
 }
 @media screen and (max-width: 800px){
     #royal_lions_den_website_navigation_bar{
-        width: 100px;
+        width: 98%;
     }
     #royal_lions_den_website_computer_navigation_menu{
         display: none;
@@ -169,6 +169,9 @@
     }
 }
 @media screen and (max-width: 500px){
+    #royal_lions_den_main_webpage{
+        width: 100px;
+    }
     #royal_lions_den_website_navigation_bar{
         width: 960px;
     }
